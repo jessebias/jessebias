@@ -9,7 +9,7 @@ Co-Founder of Verta, a Web3-powered streaming platform reimagining micro-dramas 
 
 - 💼 **Current Role**: Founder at Verta Entertainment, Inc.
 - 🎓 **Education**: BA Communication Studies, Temple University Japan (TUJ)
-- 🌱 **Currently Learning**: Fullstack + Solidity at Metana.
+- 🌱 **Currently Learning**: Full-Stack + Solidity at Metana.
 - 🛠️ **Interests**: Blockchain/Web3, Travel, Music, Photography.
 
 ## Projects
