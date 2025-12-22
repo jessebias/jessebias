@@ -12,6 +12,17 @@ Co-Founder of Verta, a Web3-powered streaming platform reimagining micro-dramas 
 - 🌱 **Currently Learning**: Fullstack + Solidity at Metana.
 - 🛠️ **Interests**: Blockchain/Web3, Travel, Music, Photography.
 
+## Projects
+
+### Full-Stack
+
+Mood-Based To-Do App 
+- Description: A dynamic productivity application that personalizes your workflow by suggesting tasks based on your current mood and real-time local weather conditions. 
+- Technologies Used: Node.js, Express.js, Handlebars, Vanilla JavaScript, CSS, WeatherAPI. 
+- Key Features: Real-time weather integration, mood-based task filtering/suggestions, interactive "Glassmorphism" UI, full task management (CRUD). 
+- GitHub Repository: https://github.com/jessebias/mood-based-to-do-app.git
+- Live Site: https://mood-based-to-do-app.onrender.com
+
 Feel free to connect with me via [LinkedIn](#) or [X](#) !
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jessebias)
