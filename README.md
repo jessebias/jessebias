@@ -5,7 +5,7 @@
 
 ## About Me 👋🏾
 
-Co-Founder of Verta, a Web3-powered streaming platform reimagining micro-dramas for a global audience. With a background in entertainment, blockchain, and executive operations, I combine operational discipline with a creative vision for the future of content. Passionate about storytelling and decentralized technology, I’m focused on scaling Verta as both a world-class streaming experience and a platform where creators truly own their work.
+Founder of Verta, a Web3-powered streaming platform reimagining micro-dramas for a global audience. With a background in entertainment, blockchain, and executive operations, I combine operational discipline with a creative vision for the future of content. Passionate about storytelling and decentralized technology, I’m focused on scaling Verta as both a world-class streaming experience and a platform where creators truly own their work.
 
 - 💼 **Current Role**: Founder at Verta Entertainment, Inc.
 - 🎓 **Education**: BA Communication Studies, Temple University Japan (TUJ)
