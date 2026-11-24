@@ -31,5 +31,5 @@ Vertical micro-drama streaming for iOS, Android and web. Consumers watch short, 
 
 - 💼 Founder, Verta Entertainment, Inc.
 - 🎓 BA Communication Studies, Temple University Japan (TUJ)
-- 🌱 Deepening Solana and smart-contract work (Metana)
+- 🌱 Currently learning Full-Stack + Solidity at Metana
 - 🛠️ Blockchain / Web3, travel, music, photography
