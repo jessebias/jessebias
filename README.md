@@ -12,6 +12,15 @@ Founder of Verta, a Web3-powered streaming platform reimagining micro-dramas for
 
 ## Projects
 
+### Verta
+
+**[Verta](https://verta.xyz)**
+- **Description:** A Web3-powered streaming platform for vertical micro-dramas. Consumers watch short, serialized episodes on iOS, Android and web; creators and studios publish through Verta Studio and are paid out on-chain, so they truly own their work. Currently in closed beta.
+- **Technologies Used:** NestJS, Prisma, PostgreSQL (Supabase), React 19 + Vite + Tailwind, Flutter, Solana (Anchor / Rust), Privy, Mux, Next.js.
+- **Key Features:** Coin + VIP economy with USDC settlement on Solana, gas-sponsored transactions (users need zero SOL), creator revenue-share launchpad, Verta Studio self-serve publishing with a review pipeline, personalized For You feed, admin operations dashboard.
+- **GitHub Organization:** [verta-hq](https://github.com/verta-hq) (Solana program: [verta-hq/programs](https://github.com/verta-hq/programs))
+- **Live Site:** [verta.xyz](https://verta.xyz)
+
 ### Full-Stack Development
 
 **[Mood-Based To-Do App](https://mood-based-to-do-app.onrender.com)**
